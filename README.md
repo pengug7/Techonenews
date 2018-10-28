@@ -1,7 +1,7 @@
 ### Welcome To My University Project
 <p align="right">این سایت برای یک پروژه دانشگاهی طراحی شده است</p>
 
-### <p align"right">[digikala](https://www.digikala.com/)> </p>
+### [digikala](https://www.digikala.com/)
 
 
 ### تماس با ما
