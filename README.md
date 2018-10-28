@@ -1,7 +1,7 @@
 ### Welcome To My University Project
 <p align="right">این سایت برای یک پروژه دانشگاهی طراحی شده است</p>
 
-### [digikala](https://www.digikala.com/)
+### اخبار تکنولوژی
 
 
 ### تماس با ما
